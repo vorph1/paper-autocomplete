@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/ellipticaljs/paper-autocomplete/",
   "name": "@polymer/paper-autocomplete",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "author": "S. Francis <sfrancis@misinteractive.com>",
   "contributors": [
     "Rodolfo Oviedo <rodo1111@gmail.com>",
