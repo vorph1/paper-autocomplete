@@ -10,7 +10,7 @@
     "url": "https://github.com/ellipticaljs/paper-autocomplete.git"
   },
   "homepage": "https://github.com/ellipticaljs/paper-autocomplete/",
-  "name": "@polymer/paper-autocomplete",
+  "name": "paper-autocomplete",
   "version": "4.1.0",
   "author": "S. Francis <sfrancis@misinteractive.com>",
   "contributors": [
