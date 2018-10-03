@@ -110,18 +110,18 @@
   from HTML and may be out of place here. Review them and
   then delete this comment!
 */
-import '../../@polymer/polymer/polymer-legacy.js';
+import '@polymer/polymer/polymer-legacy.js';
 
-import '../../@polymer/iron-flex-layout/iron-flex-layout.js';
-import '../../@polymer/paper-input/paper-input.js';
-import '../../@polymer/paper-icon-button/paper-icon-button.js';
-import '../../@polymer/iron-icons/iron-icons.js';
+import '@polymer/iron-flex-layout/iron-flex-layout.js';
+import '@polymer/paper-input/paper-input.js';
+import '@polymer/paper-icon-button/paper-icon-button.js';
+import '@polymer/iron-icons/iron-icons.js';
 import './paper-autocomplete-suggestions.js';
-import '../../@polymer/paper-item/paper-item.js';
-import '../../@polymer/paper-ripple/paper-ripple.js';
-import '../../@polymer/paper-material/paper-material.js';
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
-import { html } from '../../@polymer/polymer/lib/utils/html-tag.js';
+import '@polymer/paper-item/paper-item.js';
+import '@polymer/paper-ripple/paper-ripple.js';
+import '@polymer/paper-material/paper-material.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
+import { html } from '@polymer/polymer/lib/utils/html-tag.js';
 // This Polyfill is needed for this version to work with IE11 and Polymer 1.x
 // TODO: find out why this is needed in IE11
 if (window.NodeList && !NodeList.prototype.forEach) {
